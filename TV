@@ -7,4 +7,5 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w741413147.m3u8
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w902036493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="CANAIS | RUSSIA",RT HD
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | VENEZUELA",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CANAIS | BRASIL",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w255692927.m3u8
