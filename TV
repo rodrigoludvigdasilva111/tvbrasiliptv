@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20200530044534" group-title="CANAIS | VENEZUELA",TELESUR HD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="CANAIS | VENEZUELA",ANZOATEGUI TV HD
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w741413147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.panavision.tv/sitepad-data/uploads/2024/10/WhatsApp-Image-2024-09-29-at-10.07.56-AM.jpeg" group-title="CANAIS | VENEZUELA",PANAVISION TV
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w902036493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="CANAIS | RUSSIA",RT HD
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | VENEZUELA",
