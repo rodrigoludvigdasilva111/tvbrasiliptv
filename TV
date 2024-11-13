@@ -11,11 +11,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w255692927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/2560px-TV_Brasil_logo_2023.svg.png" group-title="CANAIS | BRASIL",TV BRASIL HD
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1" group-title="CANAIS | PORTUGUAL",SIC TV HD
-https://stream.ads.ottera.tv/cl/241113csq0kfabe32ftg87b0j0/854x480_1355200_2_f.m3u8?i=728_2152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-nmas.png" group-title="CANAIS | MEXICO", NMAS TELEVISA
+https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/08b1fe38-3ee6-4edf-9ac2-ea2b477ec007:SCL/variant/16ff5da0deceef4dd50fdae46cc4cb81/bandwidth/11545600.m3u8?hdntl=exp=1731551389~acl=*~id=b96497f7-e796-4fcd-97f1-86223274a0b2~data=hdntl~hmac=008123aedb184fb9aeb2550b7eff4180f43c616c8a4e7a299c114bdf152a202e&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CANAIS | ESPANHA",RUNTIME CINE Y SERIES
 https://stream.ads.ottera.tv/cl/241113csq0kfqbe32ftg87b170/1280x720_3071200_0_f.m3u8?i=728_2152
