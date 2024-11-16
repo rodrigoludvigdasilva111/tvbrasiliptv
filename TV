@@ -5,10 +5,10 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/36/Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png" group-title="CANAIS | BRASIL",REDE SUL HD
 https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w1863637792.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
-
-#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
-
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="https://internacional.com.br/static/logo-canal-youtube-ef70e50c42fb340290d6aa05140d1d73.png" group-title="CANAIS | BRASIL",CANAL DO INTER
+https://video01.soultv.com.br/internacional/internacional/chunklist_w1211669244.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://allanproduz.com/wp-content/uploads/2024/07/clouding.jpg" group-title="CANAIS | BRASIL",CLOUDING TV HD
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w479833880.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
 
 #EXTINF:-1 tvg-id="5" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
