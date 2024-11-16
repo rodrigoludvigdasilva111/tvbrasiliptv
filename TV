@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20200530044534" group-title="CANAIS | VENEZUELA",TELESUR HD
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="CANAIS | VENEZUELA",ANZOATEGUI TV HD
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w741413147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.panavision.tv/sitepad-data/uploads/2024/10/WhatsApp-Image-2024-09-29-at-10.07.56-AM.jpeg" group-title="CANAIS | VENEZUELA",PANAVISION TV
-https://vcp.myplaytv.com/panavision/panavision/chunklist_w902036493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="CANAIS | RUSSIA",RT HD
-https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CANAIS | BRASIL",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w255692927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/2560px-TV_Brasil_logo_2023.svg.png" group-title="CANAIS | BRASIL",TV BRASIL HD
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-nmas.png" group-title="CANAIS | MEXICO", NMAS TELEVISA
-https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/08b1fe38-3ee6-4edf-9ac2-ea2b477ec007:SCL/variant/16ff5da0deceef4dd50fdae46cc4cb81/bandwidth/11545600.m3u8?hdntl=exp=1731551389~acl=*~id=b96497f7-e796-4fcd-97f1-86223274a0b2~data=hdntl~hmac=008123aedb184fb9aeb2550b7eff4180f43c616c8a4e7a299c114bdf152a202e&
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CANAIS | ESPANHA",RUNTIME CINE Y SERIES
-https://stream.ads.ottera.tv/cl/241113csq0kfqbe32ftg87b170/1280x720_3071200_0_f.m3u8?i=728_2152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" group-title="INFORMAÇOES | IPTVFREEBRASIL",ENTRE EM NOSSO GRUPO DO TELEGRAM
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" group-title="INFORMAÇOES | IPTVFREEBRASIL",TELEGRAM_3454
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png
+#EXTINF:-1 tvg-id="1" tvg-name="https://upload.wikimedia.org/wikipedia/pt/3/36/Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png" tvg-logo="" group-title="CANAIS | BRASIL",REDE SUL HD
+https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w1863637792.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
 
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
+
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
+
+#EXTINF:-1 tvg-id="5" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
+
+#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
+
+#EXTINF:-1 tvg-id="7" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
+
+#EXTINF:-1 tvg-id="8" tvg-name="" tvg-logo="" group-title="CANAIS | BRASIL",
