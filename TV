@@ -1,19 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" group-title="INFORMAÇOES | IPTVFREEBRASIL",ENTRE EM NOSSO GRUPO DO TELEGRAM
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" group-title="INFORMAÇOES | IPTVFREEBRASIL",TELEGRAM_3454
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png
-#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="https://internacional.com.br/static/logo-canal-youtube-ef70e50c42fb340290d6aa05140d1d73.png" group-title="CANAIS | BRASIL",CANAL DO INTER
-https://video01.soultv.com.br/internacional/internacional/chunklist_w1211669244.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png" group-title=" RADIOS |BRASIL ",Rádio Mix FM - 106.3 FM
-https://drive.usercontent.google.com/download?id=1SxxNsYNU3ygBU6to52DonDPjgRY19WMx&export=download
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/radio-itatiaia-logo-9DD4D9EECC-seeklogo.com.png" group-title=" RADIOS |BRASIL ",Rádio Itatiaia FM - 95.7 FM
-89 FM A Rádio Rock - 89.1 FM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/R%C3%A1dio_Rock_logo.svg" group-title=" RADIOS |BRASIL ",89 FM A Rádio Rock - 89.1 FM
-https://19793.live.streamtheworld.com/RADIO_89FMAAC.aac
-#EXTINF:-1 tvg-logo="https://zoomradios.com/wp-content/uploads/2023/03/Rede-Clouding.jpeg" group-title=" CANAIS  |FILMES ",Rede Clouding TV
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1118761622.m3u8
-#EXTINF:-1 tvg-logo="https://img.vidks.net/v2x/l/classique-tv-western.webp?b102" group-title=" CANAIS  |FILMES ",Classique Western TV
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w532312285.m3u8
-#EXTINF:-1 tvg-logo="https://tvnbt.com/wp-content/uploads/2024/08/icon-512x512-1.png" group-title=" CANAIS  |FILMES ",TV NBT
-https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/442598.png" group-title=" CANAIS |BRASIL ",ANIMAX TV
+https://stream.ichibantv.com:3547/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://img.vidks.net/v2x/l/canal-29.webp?b102" group-title=" CANAIS |BRASIL ",CANAL 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1595123994.m3u8
